@@ -110,7 +110,7 @@ namespace TinhUocBoiChung
         //Lệnh Thoát
         private void btnExit_Click(object sender, EventArgs e)
         {
-        //    Form1.Visible(false);
+        //    Form1.Visible(false) ;
         }
     }
 }
